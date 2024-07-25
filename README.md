@@ -14,8 +14,7 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🕸️ [Code Snippets to Copy](#snippets)
-6. 🔗 [Assets](#links)
-7. 🚀 [More](#more)
+
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -1585,8 +1584,3 @@ export const Category = ({ category }: CategoryProps) => {
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-Assets used in the project can be found [here](https://drive.google.com/file/d/1TVhdnD97LajGsyaiNa6sDs-ap-z1oerA/view?usp=sharing)
-
-#
